@@ -2,7 +2,7 @@
 
 Description:
 
-Feautures:
+Features:
 
 Challenges: 
 
