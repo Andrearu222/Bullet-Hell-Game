@@ -1,1 +1,1 @@
-# proposal.md
+# Bullet Hell Game
