@@ -8,9 +8,9 @@ https://github.com/Andrearu222/Bullet-Hell-Game.git
 **Challenges**: Some of my challenges would be aking sure teh amount of bullets does nto affect negatively the players experience, managing collision that it's both fair and challenging, balancing a mix of game mechanics and artsitic expression with bullet patterns to make it appealing, but not too distracting.
 
 **Outcomes**:
-  **Ideal outcome**: fully functioal game with custom viuals and gameplay and possible music and sound effects.
+- **Ideal outcome**: fully functioal game with custom viuals and gameplay and possible music and sound effects.
 
-  **Minimal viable outome**: a playable demo with basic movement and shooting with minimun 2 attack patterns from the enemy, as well as collision working.
+- **Minimal viable outome**: a playable demo with basic movement and shooting with minimun 2 attack patterns from the enemy, as well as collision working.
 
 **Milestones**:
 - Week 1: Set up pygame window, player movements, placeholders for enemy, player, and bullets sprites, and decide aesthetic.
