@@ -13,9 +13,9 @@ https://github.com/Andrearu222/Bullet-Hell-Game.git
 **Minimal viable outome**: a playable demo with basic movement and shooting with minimun 2 attack patterns from the enemy, as well as collision working.
 
 **Milestones**:
-Week 1: Set up pygame window, player movements, placeholders for enemy, player, and bullets sprites, and decide aesthetic.
-Week 2: add player shooring functionality, bullet qualities such as speed, implement health bars and basic point system.
-Week 3: implement bullet patterns and their duration, start working on the collision against the player.
-Week 4: Add particles/trails for visual enhacement, work on the final sprites
-Week 5: Test functionality of menu, playtest to make sure it functons and if theres no bugs if there is, make sure to fix.
+- Week 1: Set up pygame window, player movements, placeholders for enemy, player, and bullets sprites, and decide aesthetic.
+- Week 2: add player shooring functionality, bullet qualities such as speed, implement health bars and basic point system.
+- Week 3: implement bullet patterns and their duration, start working on the collision against the player.
+- Week 4: Add particles/trails for visual enhacement, work on the final sprites
+- Week 5: Test functionality of menu, playtest to make sure it functons and if theres no bugs if there is, make sure to fix.
 
