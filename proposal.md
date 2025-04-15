@@ -1,6 +1,7 @@
 # Bullet Hell Game
+https://github.com/Andrearu222/Bullet-Hell-Game.git
 
-Description: My bullet hell game will display bullets the player has to dodge while shooting back at the enemy, until it's defeated. It's relevant to digital arts and media because this is an interactive piece anyone can play with a lot of creative freedom to be anything.
+**Description**: My bullet hell game will display bullets the player has to dodge while shooting back at the enemy, until it's defeated. It's relevant to digital arts and media because this is an interactive piece anyone can play with a lot of creative freedom to be anything.
 
 Features: cool bullet patterns, hitbox mechanics, shooting and special attack system point, and difficulty scaling when procressing enemy.
 
